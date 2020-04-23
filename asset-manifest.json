@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/calcibmi/static/css/main.5f361e03.chunk.css",
+    "main.js": "/calcibmi/static/js/main.ded0dfed.chunk.js",
+    "main.js.map": "/calcibmi/static/js/main.ded0dfed.chunk.js.map",
+    "runtime-main.js": "/calcibmi/static/js/runtime-main.f36eb41c.js",
+    "runtime-main.js.map": "/calcibmi/static/js/runtime-main.f36eb41c.js.map",
+    "static/js/2.b6a2c0e1.chunk.js": "/calcibmi/static/js/2.b6a2c0e1.chunk.js",
+    "static/js/2.b6a2c0e1.chunk.js.map": "/calcibmi/static/js/2.b6a2c0e1.chunk.js.map",
+    "index.html": "/calcibmi/index.html",
+    "precache-manifest.3a78434ff7a4fa391a601fdc0ac0a5ca.js": "/calcibmi/precache-manifest.3a78434ff7a4fa391a601fdc0ac0a5ca.js",
+    "service-worker.js": "/calcibmi/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/calcibmi/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.b6a2c0e1.chunk.js.LICENSE.txt": "/calcibmi/static/js/2.b6a2c0e1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f36eb41c.js",
+    "static/js/2.b6a2c0e1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ded0dfed.chunk.js"
+  ]
+}
